@@ -24,7 +24,7 @@ You world is stored in your browsers local storage.
 
 ![Preview](Preview.png 'Preview')
 
-## Want to extend, develop modify?
+## Want to extend, develop, modify?
 
 In the project directory, you can run:
 
