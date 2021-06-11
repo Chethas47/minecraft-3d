@@ -1,8 +1,8 @@
 # Welcome to React three fiber Minecraft
 
 This project is an attempt to learn Three JS library and mimic Minecraft in React.
-
-Demo: TODO
+## Try it out here:
+Demo: https://chethz-minecraft.netlify.app/
 
 ## How to play?
 
